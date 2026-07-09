@@ -8,10 +8,6 @@
 
 ------
 
-# 👨‍💻 About Me | 关于我
-
-🇨🇳
-
 大家好，我是一名专注于**企业级 IT 基础架构**的系统工程师。
 
 目前主要从事：
@@ -23,11 +19,6 @@
 - 🗄 Oracle Database
 - ☁️ Vsphere / Esxi/ Proxmox 虚拟化
 
-除了日常项目之外，我也持续学习云原生与自动化技术，希望逐步成长为兼具传统基础架构和现代平台能力的工程师。
-
-🇬🇧
-
-Hi! I'm an **Infrastructure Engineer** focusing on enterprise IT infrastructure and Linux systems.
 
 My daily work includes:
 
@@ -37,8 +28,6 @@ My daily work includes:
 - 🐧 Rhel / Centos / Ubuntu
 - 🗄 Oracle Database
 - ☁️ VMware Virtualization
-
-I'm also continuously learning cloud-native technologies and automation to bridge traditional infrastructure with modern platforms.
 
 ------
 
@@ -92,14 +81,11 @@ I'm also continuously learning cloud-native technologies and automation to bridg
 - 📖 Linux Kernel
 - 🧠 Operating System Internals
 - 🗄 Oracle High Availability
-- 🚀 Infrastructure Automation
 - 🤖 AI for IT Operations (AIOps)
 
 ------
 
 # 🎯 Goals | 目标
-
-🇨🇳
 
 希望成为一名基础设施系统的架构师。
 
@@ -109,8 +95,6 @@ I'm also continuously learning cloud-native technologies and automation to bridg
 - 高可用架构
 - 自动化运维
 - 迁移 / 灾容 / 高可用 方案提供
-
-🇬🇧
 
 Infrastructure Construction, High-Availability Architecture, Automated Operations & Maintenance, Solutions for Migration, Disaster Recovery, and High Availability
 
