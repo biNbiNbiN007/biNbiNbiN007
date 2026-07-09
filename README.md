@@ -2,9 +2,9 @@
 
 # 你好 👋 我是冰冰
 
-### Infrastructure Engineer | Linux | Storage | Oracle | Virtualization | Network | Java/Python
+### Infrastructure Engineer | Linux | Storage | Oracle | Virtualization | Network
 
-### 基础架构工程师 | Linux | 存储 | Oracle | 虚拟化 | 网络 | Java/Python
+### 基础架构工程师 | Linux | 存储 | Oracle | 虚拟化 | 网络 
 
 ------
 
